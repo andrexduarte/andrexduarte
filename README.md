@@ -6,8 +6,6 @@
 
 ---
 
-## 🧰 Tecnologias que utilizo
-
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
@@ -20,8 +18,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ---
-
-## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=andrexdev&show_icons=true&theme=github_dark&hide_title=true&count_private=true" />
