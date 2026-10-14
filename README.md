@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/header.svg" alt="André Duarte. Código, caos e café." width="840" />
+  <img src="./assets/construtores-web.png" alt="Xilogravura de trabalhadores construindo uma interface web." width="720" />
 </p>
 
 **Desenvolvedor Front-end**
